@@ -1,16 +1,16 @@
 ---
-title: what_is_logistics
+title: Bàn về khái niệm logistics 
 date: 2020-06-14 21:03:25
 tags:
 ---
-
-### Bàn về khái niệm logistics 
 
 ### Logistics thực tế là gì?
 
 ![](/images/what_is_logistics.png)
 
 Logistics được dùng ở Anh từ thế kỷ 19, và ở một góc độ nhất định có nguồn gốc từ Logistikos với nghĩa là "nghệ thuật của sự chính xác và hợp lý"  trong tiếng hy lạp và đã được dùng ở Anh từ thế kỷ 17. Từ điển webster định nghĩa "Logistics là quá trình thu mua, bảo quản, phân phối và thay thế con người và trang thiết bị". Còn theo American Heritage Dictionary, Logisitcs có 2 nghĩa: "Logistics là một lĩnh vực hoạt động của quân đội , liên quan đến việc thu mua, phân phối, bảo quản và thay thế các thiết bị cũng như con người". Hoặc "Logistics là việc quản lý chi tiết quá trình hoạt động". Cho đến nay vẫn chưa tìm được thuật ngữ thống nhất phù hợp để dịch từ logistics sang tiếng Việt. Có người dịch là hậu cần, có người dịch là tiếp vận hoặc tổ chức cung cấp dịch vụ cung ứng, thậm trí là vận trù ... Với việc phát triển chuỗi cung ứng như ngày nay tất cả các nội dung dịch đó vẫn ko đủ để giải thích đầy đủ ý nghĩa của từ logistics.
+
+<!-- more -->
 
 Ban đầu, logistics được sử dụng như một từ chuyên môn của quân đội được hiểu với ý nghĩa là công tác hậu cần. Napoleon đã từng định nghĩa: "Logistics là hoạt động để duy trì quân đội". Ông rất quan tâm tới công tác này và từng nói "The amateur discuss tactics, the professionals discuss logistics" (Kẻ nghiệp dư bàn về chiến thuật, người chuyên nghiệp bàn về logistics). Sau này thuật ngữ logistics dần được áp dụng trong các lĩnh vực kinh tế, được lan truyền khắp thế giới và nó hình thành nên logistics toàn cầu. Năm 1962, peter Drucker (được coi là cha đẻ của quan trị kinh doanh hiện đại) trong một bài báo trên tờ fortune đã viết rằng: "Logistics là nguồn động lực cho đổi mới và cơ hội mới mà chúng ta chưa hề chạm đến. Đó chính là thềm lục điạ tiềm ẩn của cả nền kinh tế" (economy's dark continent). Bài viết gây chấn động ấy đã khiến các doanh nghiệp giật mình, bởi theo Drucker, những gì các doanh nghiệp hiểu biết về logistics thời bấy giờ không hơn những gì Napoleon biết về vùng đất châu phi, nằm ở đó, to như thế, chấm hết. Các doanh nghiệp bắt đầu nhận ra đây là vùng đất tiềm năng bị bỏ ngỏ bấy lâu mà họ cần khai phá. "Mặt trận cuối cùng để giảm chi phí" là đây và logistics bước từ bóng tối ra ánh sáng đường hoàng, ngự trị một vị trí quan trọng trong nền kinh tế. Gần 60 năm từ bài báo của Drucker, logistics ko chỉ là một bước tiến mà thực sự là một cuộc cách mạng. Từ ngành vận tải với sự ra đời chuẩn hoá của container đã làm thay đổi cả vận tải đường biển và đường bộ, dẫn đến vận tải đa phương thức nơi con người có điều kiện đưa vận tải vươn đến mọi nơi. Từ những nhà kho xập xệ đến những trung tâm phân phối hiện đại, hoàn toàn tự động với mục đích giảm chi phí và nâng cao chất lượng dịch vụ. Từ dòng chảy giấy tờ đến dòng chảy thông tin real time như bây giờ. Logistics đã trở thành 1 phần hoạt động của các doanh nghiệp và tạo ra nhiều động lực cho sự đổi mới không ngừng. Từ những năm 80 của thế kỷ trước, với sự phát triển rất nhanh, người ta đã dự báo về sự xuất hiện logistics toàn cầu, và ngày nay nó đang trở thành một điều ko mấy xa lạ với tất cả mọi người.
 
